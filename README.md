@@ -1,1 +1,1 @@
-tep into Billie Eilish’s world with exclusive merch that hits hard and soft. From bold designs to subtle statements, discover apparel, accessories, and limited-edition pieces that let you wear the vibe.
+Tap into Billie Eilish’s world with exclusive merch that hits hard and soft. From bold designs to subtle statements, discover apparel, accessories, and limited-edition pieces that let you wear the vibe.
