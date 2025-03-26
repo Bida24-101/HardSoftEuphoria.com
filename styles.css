@@ -44,6 +44,27 @@ height: 100%
 object-fit: cover;
 }
 
+.Home-button {
+background-color: #000991;
+color: white;
+height: 36px;
+width: 105px;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 20px;
+transition: opacity 0.20s;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
