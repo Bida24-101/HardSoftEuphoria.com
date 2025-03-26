@@ -28,6 +28,12 @@ ul{
    margin-right: 60px;
    font-size: 25px;
 }
+ul li{
+      display: inline-block;
+}
+
+
+
 
 
 
