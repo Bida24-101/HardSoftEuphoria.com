@@ -9,6 +9,24 @@ background: #00008b;
      font-family: Arial;
      box-sizing: border-box;
 }
+.options {
+width: 400px;
+float: left;
+height: 100px;
+} 
+ul{
+float: left;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+
+
 
 
 
