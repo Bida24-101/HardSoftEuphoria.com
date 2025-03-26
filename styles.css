@@ -45,14 +45,13 @@ object-fit: cover;
 }
 
 .Home-button {
-background-color: #000991;
+background-color: FFA500;
 color: white;
 height: 36px;
 width: 105px;
-border-radius: 2px;
+border-radius: 8px;
 cursor: pointer;
-margin-right: 20px;
-transition: opacity 0.20s;
+margin-right: 40px;
 }
 
 
