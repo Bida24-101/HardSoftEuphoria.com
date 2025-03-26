@@ -8,30 +8,6 @@ background: #000435;
      font-family: Arial;
      box-sizing: border-box;
 }
-.options {
-width: 400px;
-float: left;
-height: 100px;
-} 
-ul{
-float: left;
-display: flex;
-justify-content: center;
-align-items: center;
-} 
-ul{
-   float: right;
-   list-style-type: none;
-   margin-top: 80px;
-   min-height: 400px;
-   margin-right: 60px;
-   font-size: 25px;
-}
-ul li{
-      display: inline-block;
-}
-
-
 
 
 
