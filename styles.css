@@ -7,30 +7,7 @@ background: #000435;
      font-family: Arial;
      box-sizing: border-box;
 }
- ul{
-list-style: none;
- }
-
-a{
-text-decoration: none;
-}
-
-.nav_options{
-color: white;
-}
-
-.nav_option{
-padding: 10px 18px;
-font-size: 25px;
-border radius: 8px;
-background: orange;
-color: white;
-}
-</style>
-
-
-
-
+</styles>
 
 
 
