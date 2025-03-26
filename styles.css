@@ -7,7 +7,17 @@ background: #000435;
      font-family: Arial;
      box-sizing: border-box;
 }
-</style>
+ ul{
+list-style: none;
+ }
+
+a{
+text-decoration: none;
+}
+
+
+
+
 
 
 
